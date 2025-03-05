@@ -8,4 +8,4 @@ sscanf로 각 변수에 저장함
 
 cpu, memory 사용률 공식으로 출력하게 된다.
 
-![Alt text](PiMonitor_Cpu,Mem/cpumem.PNG)
+![Alt text](PiMonitor_CpuMem/cpumem.PNG)
